@@ -39,8 +39,6 @@ set switchbuf=usetab
 
 map Y y$
 
-colorscheme trym
-
 let g:netrw_banner = 0
 let g:netrw_winsize = 25
 let g:netrw_browse_split = 4
